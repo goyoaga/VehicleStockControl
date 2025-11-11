@@ -1,0 +1,8 @@
+{
+  "name": "Vehicle Stock Control",
+  "description": "An application for company staff to verify vehicle inventory in different parking areas using their mobile devices with Gemini-powered OCR and analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
