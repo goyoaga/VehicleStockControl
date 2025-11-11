@@ -36,7 +36,7 @@ Una interfaz "Mobile-First" diseñada para ser rápida, precisa y segura.
 
 * **Alta Segura por Invitación:** Los agentes solo pueden crear una cuenta si poseen un código de invitación válido generado por un Admin.
 * **Sistema de Sesiones:** El agente debe seleccionar la localización donde se encuentra (de la lista creada por el Admin) antes de empezar.
-* **Geolocalización ObligatorIA:** La app **requiere acceso a la geolocalización** del dispositivo para añadir una capa crucial de verificación a cada registro.
+* **Geolocalización Obligatoria:** La app **requiere acceso a la geolocalización** del dispositivo para añadir una capa crucial de verificación a cada registro.
 * **Múltiples Métodos de Entrada:**
     * **Escáner de Cámara:** Reconoce el VIN directamente (ver `CamScannerScreen.jpg`).
     * **Manual:** Ingreso de 17 dígitos con validación.
@@ -107,7 +107,7 @@ Para proteger las API Keys, este proyecto está diseñado para ejecutarse localm
 
 1.  Clona este repositorio en tu máquina:
     ```bash
-    git clone [https://github.com/goyoaga/VehicleStockControl.git](https://github.com/goyoaga/VehicleStockControl.git)
+    git clone https://github.com/goyoaga/VehicleStockControl.git
     cd VehicleStockControl
     ```
 
