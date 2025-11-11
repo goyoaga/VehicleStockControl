@@ -2,7 +2,7 @@
 
 Un sistema ágil de auditoría de flotas diseñado para validar el stock físico de vehículos en campo, garantizando la integridad y precisión de los datos mediante un control de agentes por invitación y geolocalización.
 
-![Dashboard Overview](https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/OverviewTab.jpg)
+![Dashboard Overview](https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/OverviewTab.png)
 
 ---
 
@@ -54,16 +54,16 @@ Una interfaz "Mobile-First" diseñada para ser rápida, precisa y segura.
     <td align="center"><strong>Admin: Gestión de Usuarios</strong><br>Control de agentes y códigos de invitación.</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/OverviewTab.jpg" alt="Dashboard Overview"></td>
-    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/UserManagementTab.jpg" alt="User Management"></td>
+    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/OverviewTab.png" alt="Dashboard Overview"></td>
+    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/UserManagementTab.png" alt="User Management"></td>
   </tr>
   <tr>
     <td align="center"><strong>Admin: Gestión de Localizaciones</strong><br>Configuración de capacidad y estado.</td>
     <td align="center"><strong>Admin: Log de Todos los Scans</strong><br>Auditoría completa de cada registro.</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/LocationsTab.jpg" alt="Locations Management"></td>
-    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/AllScanDataTab.jpg" alt="All Scan Data Log"></td>
+    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/LocationsTab.png" alt="Locations Management"></td>
+    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/AllScanDataTab.png" alt="All Scan Data Log"></td>
   </tr>
   <tr>
     <td align="center"><strong>Agente: Login y Selección</strong><br>Inicio de sesión y elección de parking.</td>
@@ -74,7 +74,7 @@ Una interfaz "Mobile-First" diseñada para ser rápida, precisa y segura.
       <img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/LogInScreen.png" alt="Agent Login" width="45%">
       <img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/LocationSelectorScreen.png" alt="Agent Parking Selection" width="45%">
     </td>
-    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/CamScannerScreen.jpg" alt="Agent Camera Scanner"></td>
+    <td><img src="https://raw.githubusercontent.com/goyoaga/VehicleStockControl/main/images/CamScannerScreen.png" alt="Agent Camera Scanner"></td>
   </tr>
   <tr>
     <td align="center"><strong>Agente: Entrada Manual</strong><br>Alternativa de ingreso de 17 dígitos.</td>
